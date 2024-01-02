@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".splash_screen">
+
+    <TextView
+        android:layout_width="173dp"
+        android:layout_height="46dp"
+        android:fontFamily="@font/alata"
+        android:gravity="center"
+        android:text="Pocket Libro"
+        android:textColor="@color/secondary"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="119dp"
+        tools:layout_editor_absoluteY="306dp" />
+
+
+</RelativeLayout>
